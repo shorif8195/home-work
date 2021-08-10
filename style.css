@@ -1595,24 +1595,6 @@
 }
 
 
-@media (max-width:798px){
-    .header .toper{
-        width: 100%;
-        height: auto;
-        display: block;
-       justify-content: space-between;
-       padding: 20px;
-       ;
-       padding:auto 35px;
-     
-    }
-    .toper .source{
-        display: flex;
-        justify-content: space-around;
-        width: 150px;
-        margin-left:-250px;
-        
-    }
 
 
 
