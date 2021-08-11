@@ -279,7 +279,7 @@
     display: flex;
 }
 .section-3 .row-1 .col-2 img{
-    width: 250px;
+    width: 300px;
     height: auto;
 }
 .section-3 .row-1 .col-2 h3{
@@ -325,6 +325,16 @@
     background-color: #5db2ff;
     color: white;
     
+}
+.pic-1{
+    position: relative;
+    z-index: 1;
+}
+.pic-1{
+    position: relative;
+    left: 50px;
+    top: -50px;
+    z-index: 5;
 }
 /*section-3 end*/
 /*section-4 start*/
